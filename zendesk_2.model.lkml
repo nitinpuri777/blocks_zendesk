@@ -1,4 +1,4 @@
-connection: "zendesk"
+connection: "lmbi"
 
 # include all the views
 include: "*.view"
